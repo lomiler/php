@@ -1,5 +1,6 @@
 <?php 
 
-echo "Meu primeiro código PHP! <strong>Olá Mundo</strong>";
+echo "Olá, Mundo 123!";
 
+echo "Olá Hcode";
 ?> 
